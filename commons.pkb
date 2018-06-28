@@ -747,3 +747,4 @@ BEGIN
 	v_clob:=v_Return.EXTRACT('/ROWSET/ROW').getclobval();	
 	dbms_output.put_line(substr(v_clob,1,32000));
 END;
+/
