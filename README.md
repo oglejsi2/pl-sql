@@ -1,5 +1,5 @@
 # pl-sql
-commons package has following procedures:	
+commons package has following procedures:	 
 	  UTIL_GEN_INSERTS
       Accepts select statement and generates insert statements
     UTIL_GET_ENA_DIS_TAB_TRIG       
